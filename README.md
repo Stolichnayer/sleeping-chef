@@ -15,3 +15,7 @@ Customer (Consumer) threads: 0 - N
 
 * <b> Makefile: </b> <br> with the command make and run with default N = 12 Customers with make run.
 * <b> Manually: </b> <br> Compile: gcc -pthread restaurant.c -o restaurant <br> Run: ./restaurant N (where N is the number of the total customers that will arrive)
+
+### Screenshot from a run with N=12 clients:
+
+![alt text](https://github.com/Stolichnayer/sleeping-chef/blob/main/screenshot.png)
